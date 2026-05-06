@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yyymouse
 - 👀 I’m interested in robomaster
-- 🌱 I’m currently learning c/c++ and ros1
+- 🌱 I’m  making c/c++,ros2,ros,arm
 - 📫 How to reach me 643408485@qq.com
 湖北工业大学力创rm电控组
 
